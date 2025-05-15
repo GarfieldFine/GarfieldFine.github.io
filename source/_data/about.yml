@@ -1,0 +1,102 @@
+- class_name: 关于页
+  subtitle: 听说虫洞可以穿越时空，bug可以吗✨
+  avatarImg: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/20250513220034.jpg
+  avatarSkills:
+    left:
+      - 🤖️ 代码是浪漫，Bug是日常
+      - 🔍 热心助人型选手，Ctrl+F人生指南
+      - 🏠 宅家搞智能，技术宅中的技术宅
+      - 🔧 后端稳如老狗，前端偶尔发光
+    right:
+      - 脚踏实地行动派 🏃
+      - 动漫游戏爱好者，宅也能有输出 ⚡
+      - 团队小组发动机 🧱
+      - 团队小组发动机，冲在最前不掉线 🚀
+  name: 刘嘉飞
+  description: 是一名 后端工程师、学生
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: 2024年中国大学生数学建模大赛 校赛赛 二等奖 🥈
+        color: "#357ef5"
+      - desc: 2024年华数杯数学建模大赛 本科组 二等奖 🥈
+        color: "#357ef5"
+      - desc: 2024年计算机与数学学院 甲等奖学金 🏆
+        color: "#357ef5"
+    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，长沙市
+    background: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-05-14%20211643.png
+    backgroundDark: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-05-14%20211626.png
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2005
+    selfInfoTips2: 中南林业科技大学
+    selfInfoContent2: 软件工程
+    selfInfoTips3: 现在在校
+    selfInfoContent3: 大二学生👨‍🎓
+  personalities:
+    author_name: 守卫者
+    personality_type: ISFJ-T
+    photo_url: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/%E5%85%AD%E6%9C%88%E6%B8%B8.jpg
+    personality_img: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/2025-05-14%201947503.png
+    name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 生活明朗，
+    maxim_bottom: 万物可爱。
+  buff:
+    buff_tips:
+    buff_top:
+    buff_bottom:
+  game:
+    game_tips: 爱好游戏
+    game_title: 火影忍者
+    game_uid: "ID: 44143731854"
+    game_bg: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/56BAACEB4E8FDBA0E6B7A4125961A724.jpg
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 咒术回战
+        href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db4398832e.webp
+      - name: 紫罗兰永恒花园
+        href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db43983d99.webp
+      - name: 鬼灭之刃
+        href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db439856a0.webp
+  music:
+    music_tips: 音乐偏好
+    music_title: 民谣、华语流行
+    music_bg: https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg
+    music_link: /music
+  like:
+    like_tips:
+    like_title:
+    like_bg:
+    like_bottom:
+  reward_list:
+    - name:
+      amount:
+      datatime:

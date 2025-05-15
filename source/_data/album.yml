@@ -1,0 +1,46 @@
+- class_name: 世界各地夕阳与风景
+  path_name: /wordScenery
+  type: 2
+  description: 因为到不了世界各地，所以请网友们发来了各地的夕阳与风景🌇。
+  cover: https://bu.dusays.com/2023/04/09/64329399d1175.jpg
+  top_background: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/6DF162F14C7C5C4BA16BE836AFBFFACE.jpg
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2024/9/17 01:00:00
+      content: 湘潭大学一日游。
+      address: 湖南湘潭
+      from: garfield
+      image:
+        - https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/C3C84D58ED3F08E116FD1CC082860699.jpg
+        - https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/F746A8B5F17906810486F538C99453F1.jpg
+        - https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/B84362EA98DD605C72EE67D3032DF718.jpg
+    - date: 2023-6-22
+      content: 深圳杨梅湾看日出。
+      address: 广东深圳
+      from: garfield
+      image:
+        - https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/8E6AD4F8C46D53117B4D0CAE5B335FC2.jpg
+        - https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/1D674C7391F4C532F362960F506ED119.jpg
+        - https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/77EF717A395E9533E518D6A8D8311144.jpg
+        - https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/C74A8353B2E9AF2163B61604D62CA02A.jpg
+        - https://background-img-1.oss-cn-beijing.aliyuncs.com/54A4D606B65EB00661ED6EFC7945705D.jpeg
+
+- class_name: 我的日常
+  path_name: /dailyPhoto
+  type: 1
+  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/BFE639F88DAB1475331DAA0E2D755818.jpg
+  cover: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/BFE639F88DAB1475331DAA0E2D755818.jpg
+  album_list:
+    - date: 2022-10-24
+      content: 很好的朋友帮我拍的哈哈哈😎😎
+      image:
+        - https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/3181171B55C25948895F7477EBFC4E62.jpg
