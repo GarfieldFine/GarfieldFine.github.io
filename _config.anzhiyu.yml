@@ -31,7 +31,7 @@ nav:
         - name: 博客
           link: https://blog.csdn.net/Uzumaki_Naruto12?spm=1000.2115.3001.5343
           icon: /img/favicon.ico
-        - name: 嘉界
+        - name: Orange Ink
           link: https://node.code-garfield.top/
           icon: /img/node.svg
     - title: 项目
@@ -523,7 +523,7 @@ footer:
              link: https://github.com/GarfieldFine
            - title: CSDN
              link: https://blog.csdn.net/Uzumaki_Naruto12?type=blog
-           - title: 嘉界
+           - title: Orange Ink
              link: https://node.code-garfield.top/
   footerBar:
     enable: true
