@@ -62,8 +62,8 @@
     name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
   maxim:
     maxim_tips: 座右铭
-    maxim_top: 生活明朗，
-    maxim_bottom: 万物可爱。
+    maxim_top: 问题永远存在，
+    maxim_bottom: 解法藏在行动中。
   buff:
     buff_tips:
     buff_top:
@@ -77,15 +77,21 @@
     comic_tips: 爱好番剧
     comic_title: 追番
     comic_list:
+      - name: 火影忍者
+        href: https://v.qq.com/x/search/?q=%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85&queryFrom=2
+        cover: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/OIP-C.jpg
+      - name: 沧元图
+        href: https://so.youku.com/search/q_%E6%B2%A7%E5%85%83%E5%9B%BE
+        cover: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/cyt.jpg
       - name: 咒术回战
         href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://bu.dusays.com/2023/05/24/646db4398832e.webp
+        cover: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-05-15%20204541.png
       - name: 紫罗兰永恒花园
         href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://bu.dusays.com/2023/05/24/646db43983d99.webp
+        cover: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-05-15%20204612.png
       - name: 鬼灭之刃
         href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://bu.dusays.com/2023/05/24/646db439856a0.webp
+        cover: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-05-15%20204657.png
   music:
     music_tips: 音乐偏好
     music_title: 民谣、华语流行
