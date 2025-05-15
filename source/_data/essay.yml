@@ -5,7 +5,7 @@
   buttonLink: /about/
   limit: 30
   home_essay: true
-  top_background: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230824142501.jpg
+  top_background: https://background-img-1.oss-cn-beijing.aliyuncs.com/0B3B23DEE145DE8077A20489700EE0DD.jpeg
   essay_list:
     - content: 构建博客中...有点多
       date: 2025/05/14
@@ -14,3 +14,6 @@
       aplayer:
         server: tencent
         id: 001Cnurq0Oe2cM
+    - content: 哈哈哈，博客终于部署完成啦🤩🤩，开心~~，但是明天考试了😣😣，javaEE我来拯救你啦
+      date: 2025/05/15
+
