@@ -49,24 +49,24 @@
       color: "#e65164"
       icon: https://bu.dusays.com/2022/11/19/6378d6458c6b6.png
     - name: MySQL
-      color: "#00758F"  # 经典海蓝色，代表数据库稳定性
+      color: "#f3f9ff"  # 淡蓝白，突出图标蓝色
       icon: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/Mysql.png
     - name: Spring
-      color: "#6DB33F"  # Spring 官方绿
+      color: "#f1fcf5"  # 非饱和浅绿白，搭配绿色图标
       icon: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/spring.png
     - name: Redis
-      color: "#D82C20"  # Redis 官方红色，更鲜明
+      color: "#fff5f5"  # 浅粉白背景，衬托红色图标
       icon: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/Redis.png
     - name: Nacos
-      color: "#4A90E2"  # 天空蓝，与微服务风格贴合
+      color: "#f5faff"  # 微蓝白背景，避开图标蓝灰色
       icon: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/nacos.png
     - name: sentinel
-      color: "#A06AFB"  # 柔紫色，突出 AI/可视化感
+      color: "#f8f3ff"  # 柔和淡紫白，图标是蓝紫调对比明显
       icon: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/sentinel.png
     - name: sa-token
-      color: "#00C7B7"  # 亮青绿，表示认证与安全
+      color: "#f0fffb"  # 淡青绿白背景，图标偏深绿黄红不冲突
       icon: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/satoken.png
     - name: langchain4j
-      color: "#FF9900"  # 活力橙，与 AI/链式技术贴合
+      color: "#fff8ed"  # 暖黄白背景，图标为深色线条，视觉分明
       icon: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/langchain4j.svg
 
