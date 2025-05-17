@@ -1057,7 +1057,7 @@ home_top:
   timemode: date #date/updated
   title: 行而不辍
   subTitle: 未来可期。
-  siteText: anheyu.com
+  siteText: code-garfield.top
   category:
     - name: 后端
       path: /categories/后端/

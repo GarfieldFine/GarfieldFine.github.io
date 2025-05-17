@@ -48,3 +48,25 @@
     - name: Apifox
       color: "#e65164"
       icon: https://bu.dusays.com/2022/11/19/6378d6458c6b6.png
+    - name: MySQL
+      color: "#00758F"  # 经典海蓝色，代表数据库稳定性
+      icon: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/Mysql.png
+    - name: Spring
+      color: "#6DB33F"  # Spring 官方绿
+      icon: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/spring.png
+    - name: Redis
+      color: "#D82C20"  # Redis 官方红色，更鲜明
+      icon: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/Redis.png
+    - name: Nacos
+      color: "#4A90E2"  # 天空蓝，与微服务风格贴合
+      icon: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/nacos.png
+    - name: sentinel
+      color: "#A06AFB"  # 柔紫色，突出 AI/可视化感
+      icon: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/sentinel.png
+    - name: sa-token
+      color: "#00C7B7"  # 亮青绿，表示认证与安全
+      icon: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/satoken.png
+    - name: langchain4j
+      color: "#FF9900"  # 活力橙，与 AI/链式技术贴合
+      icon: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/langchain4j.svg
+
