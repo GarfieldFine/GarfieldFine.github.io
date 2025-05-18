@@ -364,8 +364,8 @@ waline:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://codergarfield-twikoo.hf.space
-  region:
+  envId: https://codergarfield-blog.hf.space
+  region: ap-guangzhou
   visitor: false
   option:
 
