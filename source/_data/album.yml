@@ -40,7 +40,11 @@
   top_background: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/BFE639F88DAB1475331DAA0E2D755818.jpg
   cover: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/BFE639F88DAB1475331DAA0E2D755818.jpg
   album_list:
-    - date: 2022-10-24
+    - date: 2023-10-1
       content: 很好的朋友帮我拍的哈哈哈😎😎
+      image:
+        - https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/3181171B55C25948895F7477EBFC4E62.jpg
+    - date: 2025-5-18
+      content: 岳麓山之行
       image:
         - https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/3181171B55C25948895F7477EBFC4E62.jpg
