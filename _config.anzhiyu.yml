@@ -32,7 +32,7 @@ nav:
           link: https://blog.csdn.net/Uzumaki_Naruto12?spm=1000.2115.3001.5343
           icon: /img/favicon.ico
         - name: Orange Ink
-          link: https://node.code-garfield.top/
+          link: https://node.kernelize.top/
           icon: /img/node.svg
     - title: 项目
       item:
@@ -524,7 +524,7 @@ footer:
            - title: CSDN
              link: https://blog.csdn.net/Uzumaki_Naruto12?type=blog
            - title: Orange Ink
-             link: https://node.code-garfield.top/
+             link: https://node.kernelize.top/
   footerBar:
     enable: true
     authorLink: /
