@@ -1081,9 +1081,9 @@ home_top:
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
     tips: 我的笔记
-    title: node.code-garfield.top
+    title: Orange Ink
     image: https://sky-take-out-csuft.oss-cn-beijing.aliyuncs.com/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__%26MsgID%3D7115349715257428642%26skey%3D%40crypt_a6164f8a_baf19a84bbb9632126baab9fd92e64ea%26mmweb_appid%3Dwx_webfilehelper.jpg
-    link: https://node.code-garfield.top/
+    link: https://blog.kernelize.top/
 
 # 朋友圈配置
 friends_vue:
