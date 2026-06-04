@@ -262,6 +262,9 @@
   script(defer data-pjax).
     (function(){
       const app = document.getElementById('lucky-app');
+      if(!app || app.dataset.luckyInit === 'true') return;
+      app.dataset.luckyInit = 'true';
+
       const canvas = app.querySelector('#bgCanvas');
       const ctx = canvas.getContext('2d');
       const bubblesArea = app.querySelector('#bubblesArea');
